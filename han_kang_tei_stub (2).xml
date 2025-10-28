@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Han Kang — Comparative DH Corpus (TEI stub)</title>
+        <respStmt><resp>Encoded by</resp><name>ChatGPT assistant</name></respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>For scholarly analysis; fair-use excerpts only. 2025-10-28</p>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl type="press_release">Nobel Prize press release 2024</bibl>
+          <bibl type="lecture">Nobel lecture 2024 (PDF/HTML)</bibl>
+          <bibl type="interview">Nobel interview; Booker interview</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo><application version="v1">TEI stub for tagging themes</application></appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage><language ident="ko">Korean</language><language ident="en">English</language></langUsage>
+      <textClass>
+        <keywords scheme="themes">
+          <term>historical trauma</term><term>care</term><term>silence</term><term>language</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <p>Insert fair-use excerpts and tag with <seg type="theme" n="care"> ... </seg>, <seg type="theme" n="apocalypse"> ... </seg>, etc.</p>
+  </body></text>
+</TEI>
